@@ -5,11 +5,11 @@
     <name>AboutDialog</name>
     <message>
         <source>About %1</source>
-        <translation>Sobre %1</translation>
+        <translation>About %1</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Karbowanec v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -20,7 +20,7 @@
     <name>AccountFrame</name>
     <message>
         <source>Address:</source>
-        <translation type="vanished">Dirección:</translation>
+        <translation type="vanished">Address:</translation>
     </message>
     <message>
         <source>...</source>
@@ -28,39 +28,39 @@
     </message>
     <message>
         <source>Show private key</source>
-        <translation type="vanished">Mostrar la clave privada</translation>
+        <translation type="vanished">Show private key</translation>
     </message>
     <message>
         <source>Your account:</source>
-        <translation>Su cuenta:</translation>
+        <translation>Your account:</translation>
     </message>
     <message>
         <source>Your receiving address</source>
-        <translation>Su dirección de recepción</translation>
+        <translation>Your receiving address</translation>
     </message>
     <message>
         <source>This is your account address</source>
-        <translation>Esta es la dirección de tu cuenta</translation>
+        <translation>This is your account address</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copiar la dirección</translation>
+        <translation>Copy address</translation>
     </message>
     <message>
         <source>Total balance</source>
-        <translation>Saldo total</translation>
+        <translation>Total balance</translation>
     </message>
     <message>
         <source> krb</source>
-        <translation> krb</translation>
+        <translation>NBR</translation>
     </message>
     <message>
         <source>Frame</source>
-        <translation>Marco</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>Show QR code</source>
-        <translation>Mostrar el código QR</translation>
+        <translation>Show QR code</translation>
     </message>
     <message>
         <source>0.00</source>
@@ -71,61 +71,61 @@
     <name>AddressBookDialog</name>
     <message>
         <source>Select address</source>
-        <translation>Seleccionar la dirección</translation>
+        <translation>Select address</translation>
     </message>
     <message>
         <source>Choose</source>
-        <translation>Escoger</translation>
+        <translation>Choose</translation>
     </message>
 </context>
 <context>
     <name>AddressBookFrame</name>
     <message>
         <source>Frame</source>
-        <translation>Marco</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>New address</source>
-        <translation type="vanished">Nueva dirección</translation>
+        <translation type="vanished">New address</translation>
     </message>
     <message>
         <source>Delete address</source>
-        <translation type="vanished">Borrar la dirección</translation>
+        <translation type="vanished">Delete address</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copiar la dirección</translation>
+        <translation>Copy address</translation>
     </message>
     <message>
         <source>New contact</source>
-        <translation>Añadir contacto</translation>
+        <translation>New contact</translation>
     </message>
     <message>
         <source>Edit contact</source>
-        <translation>Editar el contacto</translation>
+        <translation>Edit contact</translation>
     </message>
     <message>
         <source>Delete contact</source>
-        <translation>Borrar el contacto</translation>
+        <translation>Delete contact</translation>
     </message>
     <message>
         <source>Copy Payment ID</source>
-        <translation>Copiar ID de pago</translation>
+        <translation>Copy Payment ID</translation>
     </message>
 </context>
 <context>
     <name>ChangeLanguageDialog</name>
     <message>
         <source>Change language</source>
-        <translation>Cambiar el idioma</translation>
+        <translation>Change language</translation>
     </message>
     <message>
         <source>Select language:</source>
-        <translation>Seleccione el idioma:</translation>
+        <translation>Select language:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>OK</source>
@@ -164,7 +164,7 @@
     <name>ChangePasswordDialog</name>
     <message>
         <source>Change password</source>
-        <translation>Cambiar la contraseña</translation>
+        <translation>Change password</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -172,23 +172,23 @@
     </message>
     <message>
         <source>Old password:</source>
-        <translation>Contraseña anterior:</translation>
+        <translation>Old password:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>New password:</source>
-        <translation>Nueva contraseña:</translation>
+        <translation>New password:</translation>
     </message>
     <message>
         <source>Confirm:</source>
-        <translation>Confirmar:</translation>
+        <translation>Confirm:</translation>
     </message>
     <message>
         <source>Password not confirmed</source>
-        <translation>Contraseña no confirmada</translation>
+        <translation>Password not confirmed</translation>
     </message>
 </context>
 <context>
@@ -196,134 +196,134 @@
     <message>
         <source>Comfirm sending %1 KRB</source>
         <translatorcomment>Ошибка в английском слове Comfirm (правильно Confirm)</translatorcomment>
-        <translation type="vanished">Confirma el envío de %1 KRB</translation>
+        <translation type="vanished">Comfirm sending %1 NBR</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 KRB&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translatorcomment>Нужно добавить  знак &quot;¿&quot; перед вопросом</translatorcomment>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;¿Estás seguro de que quieres enviar &lt;strong&gt;%1 KRB&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 NBR&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Sí</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Confirm sending %1 KRB</source>
-        <translation type="unfinished">Confirma el envío de %1 KRB</translation>
+        <translation type="unfinished">Confirma el envío de %1 NBR</translation>
     </message>
 </context>
 <context>
     <name>ConnectionSettingsDialog</name>
     <message>
         <source>Connection settings</source>
-        <translation>Configuración de conexión</translation>
+        <translation>Connection settings</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Guardar</translation>
+        <translation>Save</translation>
     </message>
     <message>
         <source>Auto selection</source>
-        <translation>Selección automática</translation>
+        <translation>Auto selection</translation>
     </message>
     <message>
         <source>Wallet will connect to local daemon on default port. In case of no local daemon running it will launch built-in node.</source>
-        <translation>El monedero se conectará al daemon local en el puerto predeterminado. En caso de que no se ejecute ningún daemon local, se ejecutará el nodo incorporado.</translation>
+        <translation>Wallet will connect to local daemon on default port. In case of no local daemon running it will launch built-in node.</translation>
     </message>
     <message>
         <source>Embedded</source>
-        <translation>Incrustado</translation>
+        <translation>Embedded</translation>
     </message>
     <message>
         <source>Built-in embedded node will be used.</source>
-        <translation>Se usará un nodo incorporado incorporado.</translation>
+        <translation>Built-in embedded node will be used.</translation>
     </message>
     <message>
         <source>Local daemon</source>
-        <translation>Daemon local</translation>
+        <translation>Local daemon</translation>
     </message>
     <message>
         <source>Port: </source>
-        <translation>Puerto: </translation>
+        <translation>Port: </translation>
     </message>
     <message>
         <source>Wallet will connect to local daemon on specified port.</source>
-        <translation>El monedero se conectará al daemon local en el puerto especificado.</translation>
+        <translation>Wallet will connect to local daemon on specified port.</translation>
     </message>
     <message>
         <source>Remote daemon</source>
-        <translation>Daemon remoto</translation>
+        <translation>Remote daemon</translation>
     </message>
     <message>
         <source>Add node</source>
-        <translation>Añadir el nodo</translation>
+        <translation>Add node</translation>
     </message>
     <message>
         <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 KRB.</source>
-        <translation>El monedero se conectará al nodo remoto que se ejecuta en la red local o global. Por favor, seleccione nodo o especifique la dirección IP o el nombre de dominio y puerto. En este modo, el monedero envía una comisión del 0.25% de cada transacción al nodo, pero no más de 10 KRB.</translation>
+        <translation>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 NBR.</translation>
     </message>
     <message>
         <source>Remove node</source>
-        <translation>Eliminar nodo</translation>
+        <translation>Remove node</translation>
     </message>
 </context>
 <context>
     <name>ExitWidget</name>
     <message>
         <source>Saving data</source>
-        <translation>Almacenamiento de los datos</translation>
+        <translation>Saving data</translation>
     </message>
     <message>
         <source>%1 wallet is saving data.
 Please wait...</source>
-        <translation>%1 monedero está guardando los datos.
-Por favor, espera...</translation>
+        <translation>%1 wallet is saving data.
+Please wait...</translation>
     </message>
 </context>
 <context>
     <name>ExportTrackingKeyDialog</name>
     <message>
         <source>Export tracking key</source>
-        <translation>Exportar la clave de seguimiento</translation>
+        <translation>Export tracking key</translation>
     </message>
     <message>
         <source>Tracking key allows to see all incoming transactions of this wallet. It does not allow to spend funds.</source>
-        <translation>La clave de seguimiento permite ver todas las transacciones entrantes de este monedero. Eso no permite gastar los fondos.</translation>
+        <translation>Tracking key allows to see all incoming transactions of this wallet. It does not allow to spend funds.</translation>
     </message>
     <message>
         <source>Save to file</source>
-        <translation>Guardar en archivo</translation>
+        <translation>Save to file</translation>
     </message>
     <message>
         <source>Copy key</source>
-        <translation>Copiar la clave</translation>
+        <translation>Copy key</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
 </context>
 <context>
     <name>ImportKeyDialog</name>
     <message>
         <source>Import private key</source>
-        <translation>Importar la clave privada</translation>
+        <translation>Import private key</translation>
     </message>
     <message>
         <source>Key:</source>
-        <translation>Clave:</translation>
+        <translation>Key:</translation>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation>Camino de monedero:</translation>
+        <translation>Wallet path:</translation>
     </message>
     <message>
         <source>...</source>
@@ -331,7 +331,7 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>OK</source>
@@ -342,7 +342,7 @@ Por favor, espera...</translation>
     <name>ImportTrackingKeyDialog</name>
     <message>
         <source>Import tracking key</source>
-        <translation>Importar la clave de seguimiento</translation>
+        <translation>Import tracking key</translation>
     </message>
     <message>
         <source>...</source>
@@ -350,19 +350,19 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Key:</source>
-        <translation>Clave:</translation>
+        <translation>Key:</translation>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation>Camino de monedero:</translation>
+        <translation>Wallet path:</translation>
     </message>
     <message>
         <source>Import a tracking key of a wallet to see all its incoming transactions. It doesn&apos;t allow spending funds.</source>
-        <translation>Importar la clave de seguimiento  para  ver todas las transacciones entrantes de este monedero. Eso no permite gastar los fondos.</translation>
+        <translation>mport a tracking key of a wallet to see all its incoming transactions. It doesn&apos;t allow spending funds.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>OK</source>
@@ -373,19 +373,19 @@ Por favor, espera...</translation>
     <name>InfoDialog</name>
     <message>
         <source>Information</source>
-        <translation>Información</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>Red</translation>
+        <translation>Network</translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation>Conexiones</translation>
+        <translation>Connections</translation>
     </message>
     <message>
         <source>Peer list</source>
-        <translation>Lista de pares</translation>
+        <translation>Peer list</translation>
     </message>
     <message>
         <source>Blockchain</source>
@@ -393,74 +393,74 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Altura</translation>
+        <translation>Height</translation>
     </message>
     <message>
         <source>Difficulty</source>
-        <translation>Dificultad</translation>
+        <translation>Difficulty</translation>
     </message>
     <message>
         <source>Transactions</source>
-        <translation>Transacciones</translation>
+        <translation>Transactions</translation>
     </message>
     <message>
         <source>Unconfirmed transactions</source>
-        <translation>Transacciones inconfirmadas</translation>
+        <translation>Unconfirmed transactions</translation>
     </message>
     <message>
         <source>Alternative blocks</source>
-        <translation>Bloques alternativos</translation>
+        <translation>Alternative blocks</translation>
     </message>
     <message>
         <source>Last block date and time</source>
-        <translation>Fecha y hora del último bloque</translation>
+        <translation>Last block date and time</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>MainWindow</source>
-        <translation>Ventana principal</translation>
+        <translation>MainWindow</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Archivo</translation>
+        <translation>File</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Configuraciones</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation>Barra de herramientas</translation>
+        <translation>toolBar</translation>
     </message>
     <message>
         <source>Overview</source>
-        <translation>Saldo</translation>
+        <translation>Overview</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Enviar</translation>
+        <translation>Send</translation>
     </message>
     <message>
         <source>Receive</source>
-        <translation>Recibir</translation>
+        <translation>Receive</translation>
     </message>
     <message>
         <source>Transactions</source>
-        <translation>Transacciones</translation>
+        <translation>Transactions</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Salir</translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
@@ -468,51 +468,51 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Address Book</source>
-        <translation type="vanished">Directorio</translation>
+        <translation type="vanished">Address Book</translation>
     </message>
     <message>
         <source>Create wallet</source>
-        <translation>Crear el monedero</translation>
+        <translation>Create wallet</translation>
     </message>
     <message>
         <source>Open wallet</source>
-        <translation>Abrir el monedero</translation>
+        <translation>Open wallet</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Encriptar el monedero</translation>
+        <translation>Encrypt wallet</translation>
     </message>
     <message>
         <source>Change password</source>
-        <translation>Cambiar la contraseña</translation>
+        <translation>Change password</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Sobre</translation>
+        <translation>About</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>Sobre Qt</translation>
+        <translation>About Qt</translation>
     </message>
     <message>
         <source>Backup wallet</source>
-        <translation>Monedero de respaldo</translation>
+        <translation>Backup wallet</translation>
     </message>
     <message>
         <source>Start on system login</source>
-        <translation>Comenzar login del sistema</translation>
+        <translation>Start on system login</translation>
     </message>
     <message>
         <source>Minimize to tray</source>
-        <translation>Minimizar a la bandeja</translation>
+        <translation>Minimize to tray</translation>
     </message>
     <message>
         <source>Close to tray</source>
-        <translation>Cerrar de la bandeja</translation>
+        <translation>Close to tray</translation>
     </message>
     <message>
         <source>Import private key</source>
-        <translation>Importar la clave privada</translation>
+        <translation>Import private key</translation>
     </message>
     <message>
         <source>Mining</source>
@@ -520,23 +520,23 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Reset wallet</source>
-        <translation>Reiniciar el monedero</translation>
+        <translation>Reset wallet</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Contactos</translation>
+        <translation>contacts</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Idioma</translation>
+        <translation>Language</translation>
     </message>
     <message>
         <source>Change language</source>
-        <translation>Cambiar el idioma</translation>
+        <translation>hange language</translation>
     </message>
     <message>
         <source>Show private key</source>
-        <translation type="vanished">Mostrar la clave privada</translation>
+        <translation type="vanished">Show private key</translation>
     </message>
     <message>
         <source>F1</source>
@@ -544,106 +544,106 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation>Conexión</translation>
+        <translation>Connection</translation>
     </message>
     <message>
         <source>Open payment request</source>
-        <translation>Abrir el solicitud de pago</translation>
+        <translation>Open payment request</translation>
     </message>
     <message>
         <source>Export tracking key</source>
-        <translation>Exportar la clave de seguimiento</translation>
+        <translation>Export tracking key</translation>
     </message>
     <message>
         <source>Import tracking key</source>
-        <translation>Importar la clave de seguimiento</translation>
+        <translation>Import tracking key</translation>
     </message>
     <message>
         <source>Export private key</source>
-        <translation>Exportar la clave privada</translation>
+        <translation>Export private key</translation>
     </message>
     <message>
         <source>Account toolbar</source>
-        <translation>Barra de herramientas de cuenta</translation>
+        <translation>Account toolbar</translation>
     </message>
     <message>
         <source>Close wallet</source>
-        <translation>Cerrar el monedero</translation>
+        <translation>Close wallet</translation>
     </message>
     <message>
         <source>Recent wallets</source>
-        <translation>Monederos recientes</translation>
+        <translation>ecent wallets</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Información</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Estatus</translation>
+        <translation type="vanished">Status</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="vanished">Herramientas</translation>
+        <translation type="vanished">Tools</translation>
     </message>
     <message>
         <source>Open log file</source>
-        <translation>Abrir archivo de registro</translation>
+        <translation>Open log file</translation>
     </message>
     <message>
         <source>Show mnemonic seed</source>
-        <translation>Mostrar frase mnemónica</translation>
+        <translation>Show mnemonic seed</translation>
     </message>
     <message>
         <source>Restore from mnemonic seed</source>
-        <translation>Restaurar de frase mnemónica</translation>
+        <translation>Restore from mnemonic seed</translation>
     </message>
     <message>
         <source>Create nondeterministic wallet</source>
-        <translation>Crear un monedero  no determinista</translation>
+        <translation>Create nondeterministic wallet</translation>
     </message>
     <message>
         <source>Start pool mining automatically</source>
-        <translation>Comencar pool mining automáticamente</translation>
+        <translation>Start pool mining automatically</translation>
     </message>
 </context>
 <context>
     <name>MiningFrame</name>
     <message>
         <source>Frame</source>
-        <translation>Marco</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>Mining status</source>
-        <translation type="vanished">Mining estatus</translation>
+        <translation type="vanished">Mining Status</translation>
     </message>
     <message>
         <source>CPU cores</source>
-        <translation>Núcleos de CPU</translation>
+        <translation>CPU cores</translation>
     </message>
     <message>
         <source>Select pool</source>
-        <translation>Seleccionar pool</translation>
+        <translation>Select pool</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation>Detenido</translation>
+        <translation>Stopped</translation>
     </message>
     <message>
         <source>Add pool</source>
-        <translation>Añadir pool</translation>
+        <translation>Add pool</translation>
     </message>
     <message>
         <source>Start mining</source>
-        <translation>Empezar mining</translation>
+        <translation>Start mining</translation>
     </message>
     <message>
         <source>Pause mining</source>
-        <translation type="vanished">hacer una pausa de mining</translation>
+        <translation type="vanished">Pause mining</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Configuraciones</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <source>Pool mining</source>
@@ -651,7 +651,7 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Stop mining</source>
-        <translation>Detener mining</translation>
+        <translation>Stop mining</translation>
     </message>
     <message>
         <source>Solo mining</source>
@@ -659,15 +659,15 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="vanished">Estatus</translation>
+        <translation type="vanished">Status</translation>
     </message>
     <message>
         <source>Remove pool</source>
-        <translation>Eliminar pool</translation>
+        <translation>Remove pool</translation>
     </message>
     <message>
         <source>Mining status:</source>
-        <translation>Mining estatus:</translation>
+        <translation>Mining Status:</translation>
     </message>
 </context>
 <context>
@@ -675,30 +675,30 @@ Por favor, espera...</translation>
     <message>
         <source>Mnemonic seed</source>
         <translatorcomment>В данном контексте, лучше использовать синоним данного термина, поскольку в испанском языке seed восприниматеся только как семя.</translatorcomment>
-        <translation>Frase mnemónica</translation>
+        <translation>Mnemonic seed</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Select language</source>
-        <translation>Seleccionar el idioma</translation>
+        <translation>Select language</translation>
     </message>
 </context>
 <context>
     <name>NewAddressDialog</name>
     <message>
         <source>New address</source>
-        <translation>Nueva dirección</translation>
+        <translation>New address</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Etiqueta:</translation>
+        <translation>Label:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Dirección:</translation>
+        <translation>Address:</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -706,18 +706,18 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation>ID de pago:</translation>
+        <translation>PaymentID:</translation>
     </message>
 </context>
 <context>
     <name>NewNodeDialog</name>
     <message>
         <source>New remote node</source>
-        <translation>Nuevo nodo remoto</translation>
+        <translation>New remote node</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -726,11 +726,11 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Puerto:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>OK</source>
@@ -741,7 +741,7 @@ Por favor, espera...</translation>
     <name>NewPasswordDialog</name>
     <message>
         <source>Enter password</source>
-        <translation>Introducir contraseña</translation>
+        <translation>Enter password</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -749,26 +749,26 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Confirm:</source>
-        <translation>Confirmar:</translation>
+        <translation>Confirm:</translation>
     </message>
     <message>
         <source>Password not confirmed</source>
-        <translation>Contraseña no confirmada</translation>
+        <translation>Password not confirmed</translation>
     </message>
 </context>
 <context>
     <name>NewPoolDialog</name>
     <message>
         <source>New pool</source>
-        <translation>Pool nuevo</translation>
+        <translation>New pool</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -776,11 +776,11 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Puerto:</translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>OK</source>
@@ -791,7 +791,7 @@ Por favor, espera...</translation>
     <name>OpenUriDialog</name>
     <message>
         <source>Open payment request</source>
-        <translation>Abrir solicitud de pago</translation>
+        <translation>Open payment request</translation>
     </message>
     <message>
         <source>URI:</source>
@@ -799,7 +799,7 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>OK</source>
@@ -810,7 +810,7 @@ Por favor, espera...</translation>
     <name>OverviewFrame</name>
     <message>
         <source>Frame</source>
-        <translation>Marco</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>Total:</source>
@@ -818,42 +818,42 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation type="vanished">Monedero</translation>
+        <translation type="vanished">Wallet</translation>
     </message>
     <message>
         <source>Unconfirmed:</source>
-        <translation>Inconfirmado:</translation>
+        <translation>Unconfirmed:</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation type="vanished">Saldo:</translation>
+        <translation type="vanished">Balance:</translation>
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>Transacciones Recientes</translation>
+        <translation>Transactions Recientes</translation>
     </message>
     <message>
         <source>Balance</source>
-        <translation>Saldo</translation>
+        <translation>Balance</translation>
     </message>
     <message>
         <source>Available balance:</source>
-        <translation>Saldo disponible:</translation>
+        <translation>Available balance:</translation>
     </message>
 </context>
 <context>
     <name>PasswordDialog</name>
     <message>
         <source>Enter password</source>
-        <translation>Introducir contraseña</translation>
+        <translation>Enter password</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -861,25 +861,25 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Contraseña incorrecta</translation>
+        <translation>Wrong password</translation>
     </message>
 </context>
 <context>
     <name>PaymentServer</name>
     <message>
         <source>Cannot start karbowanec: click-to-pay handler</source>
-        <translation>No se puede iniciar karbowanec: controlador de clic para pagar</translation>
+        <translation>Cannot start Niobiocash: click-to-pay handler</translation>
     </message>
 </context>
 <context>
     <name>PrivateKeysDialog</name>
     <message>
         <source>Private Key</source>
-        <translation>Clave privada</translation>
+        <translation>Private Key</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>...</source>
@@ -887,7 +887,7 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Copy key</source>
-        <translation>Copiar la clave</translation>
+        <translation>Copy key</translation>
     </message>
 </context>
 <context>
@@ -898,100 +898,100 @@ Por favor, espera...</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Ayuda</translation>
+        <translation>Help</translation>
     </message>
     <message>
         <source>Fail</source>
-        <translation>Falla</translation>
+        <translation>Fail</translation>
     </message>
     <message>
         <source>Loading blockchain...</source>
         <translatorcomment>Blockchain не переводится, поскольку имеет интернациональное значение</translatorcomment>
-        <translation>Cargando blockchain...</translation>
+        <translation>Loading blockchain...</translation>
     </message>
     <message>
         <source>%1 wallet already running</source>
-        <translation>%1 el monederoya está ejecutándose</translation>
+        <translation>%1 wallet already running</translation>
     </message>
     <message>
         <source>New version available</source>
-        <translation>Nueva versión disponible</translation>
+        <translation>New version available</translation>
     </message>
     <message>
         <source>There is update available.
 Do you want to go to download page?</source>
-        <translation>Hay una actualización disponible.
-¿Quieres ir a la página de descarga?</translation>
+        <translation>There is update available.
+Do you want to go to download page?</translation>
     </message>
 </context>
 <context>
     <name>ReceiveFrame</name>
     <message>
         <source>Frame</source>
-        <translation>Marco</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copiar dirección</translation>
+        <translation>Copy address</translation>
     </message>
     <message>
         <source>Save QR to file</source>
-        <translation>Guardar QR en el archivo</translation>
+        <translation>Save QR to file</translation>
     </message>
     <message>
         <source>Request payment</source>
-        <translation>Solicitar un pago</translation>
+        <translation>Request payment</translation>
     </message>
     <message>
         <source>Use this form to request payment.</source>
-        <translation>Use este formulario para solicitar el pago.</translation>
+        <translation>Use this form to request payment.</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Etiqueta:</translation>
+        <translation>Label:</translation>
     </message>
     <message>
         <source>Enter a label for this payer</source>
-        <translation type="vanished">Ingrese una etiqueta para este pagador</translation>
+        <translation type="vanished">Enter a label for this payer</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Cantidad:</translation>
+        <translation>Amount:</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation>ID de pago:</translation>
+        <translation>PaymentID:</translation>
     </message>
     <message>
         <source>Generate Payment ID</source>
-        <translation>Generar ID de pago</translation>
+        <translation>Generate Payment ID</translation>
     </message>
     <message>
         <source>Create payment request</source>
-        <translation>Crear solicitud de pago</translation>
+        <translation>Create payment request</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Enter desired label for payer&apos;s address book</source>
-        <translation>Ingrese la etiqueta deseada para el Directorio del pagador</translation>
+        <translation>Enter desired label for payer&apos;s address book</translation>
     </message>
     <message>
         <source>Payment identifier which payer should attach to transaction</source>
-        <translation>Identificador de pago que el pagador debe adjuntar a la transacción</translation>
+        <translation>Payment identifier which payer should attach to transaction</translation>
     </message>
 </context>
 <context>
     <name>RestoreFromMnemonicSeedDialog</name>
     <message>
         <source>Restore from mnemonic phrase</source>
-        <translation>Restaurar de frase mnemónica</translation>
+        <translation>Restore from mnemonic phrase</translation>
     </message>
     <message>
         <source>Mnemonic:</source>
-        <translation>Mnemotécnico:</translation>
+        <translation>Mnemonic:</translation>
     </message>
     <message>
         <source>...</source>
@@ -999,11 +999,11 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Wallet path:</source>
-        <translation>Camino de monedero:</translation>
+        <translation>Wallet path:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1014,105 +1014,105 @@ Do you want to go to download page?</source>
     <name>SendFrame</name>
     <message>
         <source>Frame</source>
-        <translation>Marco</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>Anonymity level:</source>
         <translatorcomment>Ошибка в слове Anonimity  - правильно Anonymity</translatorcomment>
-        <translation>Nivel de anonimato:</translation>
+        <translation>Anonymity level:</translation>
     </message>
     <message>
         <source>PaymentID:</source>
-        <translation>ID de pago:</translation>
+        <translation>PaymentID:</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Enviar</translation>
+        <translation>Send</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Borrar todo</translation>
+        <translation>Clear All</translation>
     </message>
     <message>
         <source>Add Recipient</source>
-        <translation>Agregar Destinatario</translation>
+        <translation>Add Recipient</translation>
     </message>
     <message>
         <source>Balance:</source>
-        <translation type="vanished">Saldo:</translation>
+        <translation type="vanished">Balance:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Tasa:</translation>
+        <translation>Fee:</translation>
     </message>
     <message>
         <source>Payment identifier issued by payee (exchange, shop or other entity)</source>
-        <translation>Identificador de pago emitido por beneficiario (bolsa, tienda u otra entidad)</translation>
+        <translation>Payment identifier issued by payee (exchange, shop or other entity)</translation>
     </message>
     <message>
         <source>Donate 0.1% to development fund:</source>
-        <translation>Donar 0.1% al fondo de desarrollo:</translation>
+        <translation>Donate 0.1% to development fund:</translation>
     </message>
     <message>
         <source>Generate Payment ID</source>
-        <translation>Generar ID de pago</translation>
+        <translation>Generate Payment ID</translation>
     </message>
     <message>
         <source>Wallet is connected through remote node. Additional 0.25% fee will be applied.</source>
-        <translation>El monedero está conectado a través de un nodo remoto. Se aplicará una tasa adicional de 0.25%.</translation>
+        <translation>Wallet is connected through remote node. Additional 0.25% fee will be applied.</translation>
     </message>
     <message>
         <source>Remote node mode</source>
-        <translation>Modo de nodo remoto</translation>
+        <translation>Remote node mode</translation>
     </message>
     <message>
         <source>Available balance:</source>
-        <translation>Saldo disponible:</translation>
+        <translation>Available balance:</translation>
     </message>
 </context>
 <context>
     <name>ShowPaymentRequestDialog</name>
     <message>
         <source>Payment request</source>
-        <translation>Solicitud de pago</translation>
+        <translation>Payment request</translation>
     </message>
     <message>
         <source>Payment information</source>
-        <translation>Información del pago</translation>
+        <translation>Payment information</translation>
     </message>
     <message>
         <source>Copy URI</source>
-        <translation>Copiar URI</translation>
+        <translation>Copy URI</translation>
     </message>
     <message>
         <source>Save URI</source>
-        <translation>Guardar URI</translation>
+        <translation>Save URI</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Guardar imagen</translation>
+        <translation>Save image</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
 </context>
 <context>
     <name>TransactionDetailsDialog</name>
     <message>
         <source>Transaction details</source>
-        <translation>Detalles de la transacción</translation>
+        <translation>Transaction details</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation>Close</translation>
     </message>
 </context>
 <context>
     <name>TransactionFrame</name>
     <message>
         <source>Frame</source>
-        <translation>Marco</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1123,34 +1123,34 @@ Do you want to go to download page?</source>
     <name>TransactionsFrame</name>
     <message>
         <source>Frame</source>
-        <translation>Marco</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Exportar</translation>
+        <translation>Export</translation>
     </message>
     <message>
         <source>Selected amount: </source>
-        <translation>Cantidad seleccionada: </translation>
+        <translation>Selected amount: </translation>
     </message>
     <message>
         <source>Search for address, amount, transaction hash or Payment ID</source>
-        <translation>Buscar dirección, cantidad, hash de transacción o ID de pago</translation>
+        <translation>Search for address, amount, transaction hash or Payment ID</translation>
     </message>
     <message>
         <source>Reset filter</source>
-        <translation>Reiniciar filtro</translation>
+        <translation>Reset filter</translation>
     </message>
 </context>
 <context>
     <name>TransferFrame</name>
     <message>
         <source>Frame</source>
-        <translation>Marco</translation>
+        <translation>Frame</translation>
     </message>
     <message>
         <source>Pay To:</source>
-        <translation>Destinatario:</translation>
+        <translation>Pay To:</translation>
     </message>
     <message>
         <source>...</source>
@@ -1158,46 +1158,46 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Ingrese una etiqueta para esta dirección para añadir a su Directorio</translation>
+        <translation>Enter a label for this address to add it to your address book</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation>Cantidad:</translation>
+        <translation>Amount:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="vanished">Etiqueta:</translation>
+        <translation type="vanished">Label:</translation>
     </message>
     <message>
         <source>Add to Contacts:</source>
-        <translation type="vanished">Añadir a Contactos:</translation>
+        <translation type="vanished">Add to Contacts:</translation>
     </message>
     <message>
         <source>Select recipient from Address Book</source>
-        <translation>Seleccionar destinatario del Directorio</translation>
+        <translation>Select recipient from Address Book</translation>
     </message>
     <message>
         <source>Paste from clipboard</source>
-        <translation>Pegar desde el portapapeles</translation>
+        <translation>Paste from clipboard</translation>
     </message>
     <message>
         <source>Save to Contacts:</source>
-        <translation type="vanished">Guardar en Contactos:</translation>
+        <translation type="vanished">Save to Contacts:</translation>
     </message>
     <message>
         <source>Save to Contacts as:</source>
-        <translation>Guardar en Contactos como:</translation>
+        <translation>Save to Contacts as:</translation>
     </message>
     <message>
         <source>Remove recepient</source>
-        <translation>Eliminar destinatario</translation>
+        <translation>Remove recepient</translation>
     </message>
 </context>
 <context>
     <name>Updater</name>
     <message>
         <source>Unable to check for update</source>
-        <translation>No se puede verificar la actualización</translation>
+        <translation>Unable to check for update</translation>
     </message>
     <message>
         <source>Error: %1</source>
@@ -1208,19 +1208,19 @@ Do you want to go to download page?</source>
     <name>VerifyMnemonicSeedDialog</name>
     <message>
         <source>New deterministic wallet created</source>
-        <translation>Nuevo monedero determinista fue creado</translation>
+        <translation>New deterministic wallet created</translation>
     </message>
     <message>
         <source>This is mnemonic seed of your wallet. Write it down carefully. It allows to restore your wallet.</source>
-        <translation>Esta es la frasa mnemónica de tu monedero. Escríbelo cuidadosamente. Le permite restaurar su monedero.</translation>
+        <translation>This is mnemonic seed of your wallet. Write it down carefully. It allows to restore your wallet.</translation>
     </message>
     <message>
         <source>Mnemonic:</source>
-        <translation>Mnemotécnico:</translation>
+        <translation>Mnemonic:</translation>
     </message>
     <message>
         <source>Repeat:</source>
-        <translation>Repetir:</translation>
+        <translation>Repeat:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1228,105 +1228,105 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Select language</source>
-        <translation>Seleccionar idioma</translation>
+        <translation>Select language</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AboutDialog</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>Sobre %1% Monedero</translation>
+        <translation>About %1 Wallet</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AccountFrame</name>
     <message>
         <source>Hide private keys</source>
-        <translation type="vanished">Ocultar claves privadas</translation>
+        <translation type="vanished">Hide private keys</translation>
     </message>
     <message>
         <source>Show private keys</source>
-        <translation type="vanished">Mostrar claves privadas</translation>
+        <translation type="vanished">Show private keys</translation>
     </message>
     <message>
         <source>Copied to clipboard</source>
-        <translation>Copiado al portapapeles</translation>
+        <translation>Copied to clipboard</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AddressBookFrame</name>
     <message>
         <source>Invalid address</source>
-        <translation>Dirección inválida</translation>
+        <translation>Invalid address</translation>
     </message>
     <message>
         <source>Invalid payment ID</source>
-        <translation>ID de pago inválido</translation>
+        <translation>Invalid payment ID</translation>
     </message>
     <message>
         <source>Edit contact</source>
-        <translation>Editar contacto</translation>
+        <translation>Edit contact</translation>
     </message>
     <message>
         <source>Contact with such label and address already exists.</source>
-        <translation type="vanished">El contacto con tal etiqueta y dirección ya existe.</translation>
+        <translation type="vanished">Contact with such label and address already exists.</translation>
     </message>
     <message>
         <source>Copy &amp;label</source>
-        <translation>Copiar &amp;etiqueta</translation>
+        <translation>Copy &amp;label</translation>
     </message>
     <message>
         <source>Copy Payment &amp;ID</source>
-        <translation>Copiar Pago y &amp;ID</translation>
+        <translation>Copy Payment &amp;ID</translation>
     </message>
     <message>
         <source>Copy &amp;address</source>
-        <translation>Copiar &amp;dirección</translation>
+        <translation>Copy &amp;address</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Editar</translation>
+        <translation>&amp;Edit</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;Borrar</translation>
+        <translation>&amp;Delete</translation>
     </message>
     <message>
         <source>Contact with such label already exists.</source>
-        <translation>El contacto con esa etiqueta ya existe.</translation>
+        <translation>Contact with such label already exists.</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::AddressBookModel</name>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Label</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Dirección</translation>
+        <translation>Address</translation>
     </message>
     <message>
         <source>PaymentID</source>
-        <translation>ID de pago</translation>
+        <translation>PaymentID</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ChangePasswordDialog</name>
     <message>
         <source>Password not confirmed</source>
-        <translation>Contraseña no confirmada</translation>
+        <translation>Password not confirmed</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::CommandLineParser</name>
     <message>
         <source>Used to deploy test nets. Checkpoints and hardcoded seeds are ignored, network id is changed. Use it with –data-dir flag. The wallet must be launched with –testnet flag</source>
-        <translation>Se usa para implementar redes de prueba. Se ignoran los puntos de control y seeds codificadas, se cambia la identificación de la red. Úselo con el indicador -data-dir. El monedero debe ser lanzada con -testnet flag</translation>
+        <translation>Used to deploy test nets. Checkpoints and hardcoded seeds are ignored, network id is changed. Use it with –data-dir flag. The wallet must be launched with –testnet flag</translation>
     </message>
     <message>
         <source>Interface for p2p network protocol</source>
-        <translation>Interfaz para el protocolo de red p2p</translation>
+        <translation>Interface for p2p network protocol</translation>
     </message>
     <message>
         <source>ip</source>
@@ -1334,27 +1334,27 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Port for p2p network protocol</source>
-        <translation>Puerto para protocolo de red p2p</translation>
+        <translation>Port for p2p network protocol</translation>
     </message>
     <message>
         <source>port</source>
-        <translation>puerto</translation>
+        <translation>port</translation>
     </message>
     <message>
         <source>Allow local ip add to peer list, mostly in debug purposes</source>
-        <translation>Permitir que la IP local se agregue a la lista de pares, principalmente en depuración</translation>
+        <translation>Allow local ip add to peer list, mostly in debug purposes</translation>
     </message>
     <message>
         <source>Manually add peer to local peerlist</source>
-        <translation>Agregar manualmente pares a listas de pares locales</translation>
+        <translation>Manually add peer to local peerlist</translation>
     </message>
     <message>
         <source>peer</source>
-        <translation>par</translation>
+        <translation>peer</translation>
     </message>
     <message>
         <source>Specify list of peers to connect to and attempt to keep the connection open</source>
-        <translation>Especifique la lista de pares para conectarse e intente mantener la conexión abierta</translation>
+        <translation>Specify list of peers to connect to and attempt to keep the connection open</translation>
     </message>
     <message>
         <source>node</source>
@@ -1362,99 +1362,99 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Specify list of peers to connect to only. If this option is given the options add-priority-node and seed-node are ignored</source>
-        <translation>Especifique la lista de pares para conectarse solo. Si se da esta opción, se ignoran las opciones add-priority-nodo y seed-nodo</translation>
+        <translation>Specify list of peers to connect to only. If this option is given the options add-priority-node and seed-node are ignored</translation>
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Conectar a un nodo para recuperar direcciones de pares y desconectar</translation>
+        <translation>Connect to a node to retrieve peer addresses, and disconnect</translation>
     </message>
     <message>
         <source>Do not announce yourself as peerlist candidate</source>
-        <translation>No te anuncies como candidato a lista de pares</translation>
+        <translation>Do not announce yourself as peerlist candidate</translation>
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>Especificar el directorio de datos</translation>
+        <translation>Specify data directory</translation>
     </message>
     <message>
         <source>directory</source>
-        <translation>directorio</translation>
+        <translation>directory</translation>
     </message>
     <message>
         <source>Run application in minimized mode</source>
-        <translation>Ejecutar la aplicación en modo minimizado</translation>
+        <translation>Run application in minimized mode</translation>
     </message>
     <message>
         <source>Karbowanec wallet</source>
-        <translation>El monedero de Karbowanec</translation>
+        <translation>Niobiocash wallet</translation>
     </message>
     <message>
         <source>External port for p2p network protocol (if port forwarding used with NAT)</source>
-        <translation>Puerto externo para el protocolo de red p2p (si el reenvío de puertos se usa con NAT)</translation>
+        <translation>External port for p2p network protocol (if port forwarding used with NAT)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
         <source>Confirm sending %1 KRB</source>
-        <translation>Confirma el envío de %1 KRB</translation>
+        <translation>Confirm sending %1 NBR</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Payment ID: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ID de pago: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Payment ID: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;without Payment ID&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translatorcomment>Нужен знак &quot;¿&quot; перед вопросом</translatorcomment>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;¿Estás seguro de que desea enviar &lt;strong&gt;sin ID de pago&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;without Payment ID&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ExportTrackingKeyDialog</name>
     <message>
         <source>Save tracking key to...</source>
-        <translation>Guardar la clave de seguimiento para ...</translation>
+        <translation>Save tracking key to...</translation>
     </message>
     <message>
         <source>Tracking key (*.trackingkey)</source>
-        <translation>Clave de seguimiento (*.trackingkey)</translation>
+        <translation>Tracking key  (*.trackingkey)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ImportKeyDialog</name>
     <message>
         <source>Wallet file</source>
-        <translation>Archivo de monedero</translation>
+        <translation>Wallet file</translation>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation>Monederos (*.wallet)</translation>
+        <translation>Wallets (*.wallet)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ImportTrackingKeyDialog</name>
     <message>
         <source>Tracking wallet file</source>
-        <translation>Archivo de seguimiento de monederos</translation>
+        <translation>Tracking wallet file</translation>
     </message>
     <message>
         <source>Tracking wallets (*.trackingwallet)</source>
-        <translation>Seguimiento de monederos (*.trackingwallet)</translation>
+        <translation>Tracking wallets (*.trackingwallet)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::InfoDialog</name>
     <message>
         <source>%1 (Outgoing: %2, Incoming: %3)</source>
-        <translation>%1 (Saliente: %2, Entrante :%3)</translation>
+        <translation>%1 (Outgoing: %2, Incoming: %3)</translation>
     </message>
     <message>
         <source>White: %1, Grey: %2</source>
-        <translation>Blanco: %1, Gris: %2</translation>
+        <translation>White: %1, Grey: %2</translation>
     </message>
     <message>
         <source>Known: %1, Local: %2</source>
-        <translation>Conocido: %1, Local: %2</translation>
+        <translation>Known: %1, Local: %2</translation>
     </message>
     <message>
         <source>%1</source>
@@ -1465,196 +1465,196 @@ Do you want to go to download page?</source>
     <name>WalletGui::MainWindow</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>Sobre %1 Monedero</translation>
+        <translation>About %1 Wallet</translation>
     </message>
     <message>
         <source>New wallet file</source>
-        <translation>Nuevo archivo de monedero</translation>
+        <translation>New wallet file</translation>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation>Monederos (*.wallet)</translation>
+        <translation>Wallets (*.wallet)</translation>
     </message>
     <message>
         <source>Open .wallet/.keys file</source>
-        <translation>Abrir el archivo .wallet / .keys</translation>
+        <translation>Open .wallet/.keys file</translation>
     </message>
     <message>
         <source>Wallet (*.wallet *.keys)</source>
-        <translation>Monedero (*.wallet *.keys)</translation>
+        <translation>Wallet (*.wallet *.keys)</translation>
     </message>
     <message>
         <source>Backup wallet to...</source>
         <translatorcomment>Backup - как глагол или существительное?</translatorcomment>
-        <translation>Copia de respaldo de monedero a...</translation>
+        <translation>Backup wallet to...</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Advertencia</translation>
+        <translation>Warning</translation>
     </message>
     <message>
         <source>Your wallet will be reset and restored from blockchain.
 Are you sure?</source>
-        <translation>Su monedero se restablecerá y restaurará desde blockchain.
-¿Estás seguro?</translation>
+        <translation>Your wallet will be reset and restored from blockchain.
+Are you sure?</translation>
     </message>
     <message>
         <source>Wallet error</source>
-        <translation>Error de monedero</translation>
+        <translation>Wallet error</translation>
     </message>
     <message>
         <source>Wallet</source>
-        <translation>Monedero</translation>
+        <translation>Wallet</translation>
     </message>
     <message>
         <source>Encrypted</source>
-        <translation>Encriptado</translation>
+        <translation>Encrypted</translation>
     </message>
     <message>
         <source>Not encrypted</source>
-        <translation>No encriptado</translation>
+        <translation>Not encrypted</translation>
     </message>
     <message>
         <source>%1 peers</source>
-        <translation type="vanished">%1 pares</translation>
+        <translation type="vanished">%1 peers</translation>
     </message>
     <message>
         <source>Synchronization in progress</source>
-        <translation>Sincronización en progreso</translation>
+        <translation>Synchronization in progress</translation>
     </message>
     <message>
         <source>Not synchronized</source>
-        <translation>No sincronizado</translation>
+        <translation>Not synchronized</translation>
     </message>
     <message>
         <source>Synchronized</source>
-        <translation>Sincronizado</translation>
+        <translation>Synchronized</translation>
     </message>
     <message>
         <source>The language will be changed after restarting the wallet.</source>
-        <translation>El idioma se cambiará después de reiniciar el monedero.</translation>
+        <translation>The language will be changed after restarting the wallet.</translation>
     </message>
     <message>
         <source>Language was changed</source>
-        <translation>El idioma fue cambiado</translation>
+        <translation>Language was changed</translation>
     </message>
     <message>
         <source>%1 Wallet %2</source>
-        <translation type="vanished">%1 Monedero %2</translation>
+        <translation type="vanished">%1 Wallet %2</translation>
     </message>
     <message>
         <source>More info can be found at www.karbowanec.com in Documentation section</source>
-        <translation>Se puede encontrar más información en www.karbowanec.com en la sección Documentación</translation>
+        <translation>More info can be found at www.karbowanec.com in Documentation section</translation>
     </message>
     <message>
         <source>Connection settings changed</source>
-        <translation>La configuración de conexión ha cambiado</translation>
+        <translation>Connection settings changed</translation>
     </message>
     <message>
         <source>Connection mode will be changed after restarting the wallet.</source>
-        <translation>El modo de conexión se cambiará después de reiniciar el monedero.</translation>
+        <translation>Connection mode will be changed after restarting the wallet.</translation>
     </message>
     <message>
         <source>Account toolbar</source>
-        <translation type="vanished">Barra de herramientas de cuenta</translation>
+        <translation type="vanished">Account toolbar</translation>
     </message>
     <message>
         <source>Tracking wallet. Spending unawailable</source>
-        <translation>Monedero de seguimiento. Gasto no disponible</translation>
+        <translation>Tracking wallet. Spending unawailable</translation>
     </message>
     <message>
         <source>Connected through remote node</source>
-        <translation>Conectado a través de un nodo remoto</translation>
+        <translation>Connected through remote node</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s)</source>
         <translation>
-            <numerusform>%n conexión activa</numerusform>
-            <numerusform>%n conexiónes activas</numerusform>
+            <numerusform>%n active connection</numerusform>
+            <numerusform>%n active connection</numerusform>
         </translation>
     </message>
     <message>
         <source>Karbo Wallet %1</source>
-        <translation>Karbo Monedero %1</translation>
+        <translation>niobiocash wallet %1</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;Mostrar / Ocultar</translation>
+        <translation>&amp;Show / Hide</translation>
     </message>
     <message>
         <source>Show or hide the main window</source>
-        <translation>Mostrar u ocultar la ventana principal</translation>
+        <translation>Show or hide the main window</translation>
     </message>
     <message>
         <source>Total amount: %1, hash: %2</source>
-        <translation type="vanished">Cantidad total: %1, hash: %2</translation>
+        <translation type="vanished">Total amount: %1, hash: %2</translation>
     </message>
     <message>
         <source>Karbo Wallet</source>
-        <translation type="vanished">Karbo Monedero</translation>
+        <translation type="vanished">niobiocash Wallet</translation>
     </message>
     <message>
         <source>New transaction received</source>
-        <translation type="vanished">Nueva transacción recibida</translation>
+        <translation type="vanished">New transaction received</translation>
     </message>
     <message>
         <source>Mnemonic seed is not correct</source>
-        <translation>Frase mnemónica es incorrecta</translation>
+        <translation>Mnemonic seed is not correct</translation>
     </message>
     <message>
         <source>There must be an error in mnemonic seed. Make sure you entered it correctly.</source>
-        <translation>Debe haber un error en la frase mnemónica. Asegúrate de haberlo ingresado correctamente.</translation>
+        <translation>There must be an error in mnemonic seed. Make sure you entered it correctly.</translation>
     </message>
     <message>
         <source>Wallet keys are not valid</source>
-        <translation>Las claves de monedero son inválidos</translation>
+        <translation>Wallet keys are not valid</translation>
     </message>
     <message>
         <source>The private keys you entered are not valid.</source>
-        <translation>Las claves privadas que ingresó son inválidos.</translation>
+        <translation>The private keys you entered are not valid.</translation>
     </message>
     <message>
         <source>Tracking key is not valid</source>
-        <translation>La clave de seguimiento es inválido</translation>
+        <translation>Tracking key is not valid</translation>
     </message>
     <message>
         <source>The tracking key you entered is not valid.</source>
-        <translation>La clave de seguimiento que ingresó es inválido.</translation>
+        <translation>The tracking key you entered is not valid.</translation>
     </message>
     <message>
         <source>Key is not valid</source>
-        <translation>La clave no es válida</translation>
+        <translation>Key is not valid</translation>
     </message>
     <message>
         <source>The public spend key you entered is not valid.</source>
-        <translation>La clave de gasto público que ingresó es inválido.</translation>
+        <translation>The public spend key you entered is not valid.</translation>
     </message>
     <message>
         <source>The public view key you entered is not valid.</source>
-        <translation>La clave de vista pública que ingresó es inválido.</translation>
+        <translation>The public view key you entered is not valid.</translation>
     </message>
     <message>
         <source>The private spend key you entered is not valid.</source>
-        <translation>La clave de gasto privado que ingresó es inválido.</translation>
+        <translation>The private spend key you entered is not valid.</translation>
     </message>
     <message>
         <source>The private view key you entered is not valid.</source>
-        <translation>La clave de vista privada que ingresó es inválido.</translation>
+        <translation>The private view key you entered is not valid.</translation>
     </message>
     <message>
         <source>Wrong wallet file extension</source>
-        <translation>Extensión de archivo de monedero incorrecta</translation>
+        <translation>Wrong wallet file extension</translation>
     </message>
     <message>
         <source>Wrong wallet file extension, wallet file should have &quot;.wallet&quot;, &quot;.keys&quot; or &quot;.trackingwallet&quot; extension.</source>
-        <translation>La extensión incorrecta del archivo del monedero, el archivo del monedero debe tener la extensión &quot;.wallet&quot;, &quot;.keys&quot; o &quot;.trackingwallet&quot;.</translation>
+        <translation>Wrong wallet file extension, wallet file should have &quot;.wallet&quot;, &quot;.keys&quot; or &quot;.trackingwallet&quot; extension.</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::MiningFrame</name>
     <message>
         <source>Mining. Hashrate: %1 H/s</source>
-        <translation type="vanished">Mining. Tasa de hash: %1 H/s</translation>
+        <translation type="vanished">Mining. Hashrate: %1 H/s</translation>
     </message>
     <message>
         <source>Error: %1</source>
@@ -1662,37 +1662,37 @@ Are you sure?</source>
     </message>
     <message>
         <source>Starting...</source>
-        <translation>Iniciando...</translation>
+        <translation>Starting...</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation>Detenido</translation>
+        <translation>Stopped</translation>
     </message>
     <message>
         <source>Mining solo. Hashrate: %1 H/s</source>
-        <translation>Mining solo. Tasa de hash: %1 H/s</translation>
+        <translation>Mining solo. Hashrate: %1 H/s</translation>
     </message>
     <message>
         <source>Starting solo minining...</source>
-        <translation>Iniciando solo mining...</translation>
+        <translation>Starting solo minining...</translation>
     </message>
     <message>
         <source>Mining in pool. Hashrate: %1 H/s</source>
-        <translation>Mining e n pool. Tasa de hash: %1 H/s</translation>
+        <translation>Mining in pool. Hashrate: %1 H/s</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::NewPasswordDialog</name>
     <message>
         <source>Password not confirmed</source>
-        <translation>Contraseña no confirmada</translation>
+        <translation>Password not confirmed</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::NodeModel</name>
     <message>
         <source>Node URL</source>
-        <translation>Nodo URL</translation>
+        <translation>Node URL</translation>
     </message>
 </context>
 <context>
@@ -1706,64 +1706,64 @@ Are you sure?</source>
     <name>WalletGui::QRLabel</name>
     <message>
         <source>&amp;Save Image...</source>
-        <translation>&amp;Guardar imagen...</translation>
+        <translation>&amp;Save Image...</translation>
     </message>
     <message>
         <source>&amp;Copy Image</source>
-        <translation>&amp;Copiar imagen</translation>
+        <translation>&amp;Copy Image</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>Guardar código QR</translation>
+        <translation>Save QR Code</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::ReceiveFrame</name>
     <message>
         <source>New PNG file</source>
-        <translation type="vanished">Nuevo archivo PNG</translation>
+        <translation type="vanished">New PNG file</translation>
     </message>
     <message>
         <source>Save QR Code</source>
-        <translation>Guardar código QR</translation>
+        <translation>Save QR Code</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::RestoreFromMnemonicSeedDialog</name>
     <message>
         <source>Wallet file</source>
-        <translation>Archivo de monedero</translation>
+        <translation>Wallet file</translation>
     </message>
     <message>
         <source>Wallets (*.wallet)</source>
-        <translation>Monederos (*.wallet)</translation>
+        <translation>Wallets (*.wallet)</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::SendFrame</name>
     <message>
         <source>Invalid recipient address</source>
-        <translation>Dirección del destinatario inválido</translation>
+        <translation>Invalid recipient address</translation>
     </message>
     <message>
         <source>Incorrect fee value</source>
-        <translation>Valor de tasa incorrecta</translation>
+        <translation>Incorrect fee value</translation>
     </message>
     <message>
         <source>Invalid payment ID</source>
-        <translation>ID de pago inválido</translation>
+        <translation>Invalid payment ID</translation>
     </message>
     <message>
         <source>Payment request should start with karbowanec:</source>
-        <translation>La solicitud de pago debe comenzar con karbowanec:</translation>
+        <translation>Payment request should start with  niobiocash:</translation>
     </message>
     <message>
         <source>Insufficient balance</source>
-        <translation>Saldo insuficiente</translation>
+        <translation>Insufficient balance</translation>
     </message>
     <message>
         <source>Available balance is insufficient to send this transaction. Have you excluded a fee?</source>
-        <translation>El saldo disponible no es suficiente para enviar esta transacción. ¿Ha excluido una tasa?</translation>
+        <translation>Available balance is insufficient to send this transaction. Have you excluded a fee?</translation>
     </message>
 </context>
 <context>
@@ -1780,27 +1780,27 @@ Are you sure?</source>
 &lt;span style=&quot; font-weight:600;&quot;&gt;Transaction hash: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Estatus: &lt;/span&gt;%1&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Fecha: &lt;/span&gt;%2&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;A: &lt;/span&gt;%4&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Cantidad: &lt;/span&gt;%5&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Tasa: &lt;/span&gt;%6&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;ID de pago: &lt;/span&gt;%7&lt;/p&gt;&lt;br&gt;
-&lt;span style=&quot; font-weight:600;&quot;&gt;Hash de transacción: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;span style=&quot; font-weight:600;&quot;&gt;Status: &lt;/span&gt;%1&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Date: &lt;/span&gt;%2&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;To: &lt;/span&gt;%4&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Amount: &lt;/span&gt;%5&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Fee: &lt;/span&gt;%6&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Payment ID: &lt;/span&gt;%7&lt;/p&gt;&lt;br&gt;
+&lt;span style=&quot; font-weight:600;&quot;&gt;Transaction hash: &lt;/span&gt;%8&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation>Fallido</translation>
+        <translation>Failed</translation>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation>Cancelado</translation>
+        <translation>Cancelled</translation>
     </message>
     <message numerus="yes">
         <source>%n confirmation(s)</source>
         <translation>
-            <numerusform>%n confirmacion</numerusform>
-            <numerusform>%n confirmaciones</numerusform>
+            <numerusform>%n confirmation(s)</numerusform>
+            <numerusform>%n confirmation(s)</numerusform>
         </translation>
     </message>
 </context>
@@ -1808,95 +1808,95 @@ Are you sure?</source>
     <name>WalletGui::TransactionsFrame</name>
     <message>
         <source>Select CSV file</source>
-        <translation>Seleccionar archivo CSV</translation>
+        <translation>Select CSV file</translation>
     </message>
     <message>
         <source>Copy transaction &amp;hash</source>
-        <translation>Copiar transacción &amp;hash</translation>
+        <translation>Copy transaction &amp;hash</translation>
     </message>
     <message>
         <source>Copy &amp;amount</source>
-        <translation>Copiar &amp;cantidad</translation>
+        <translation>Copy &amp;amount</translation>
     </message>
     <message>
         <source>Copy Payment &amp;ID</source>
-        <translation>Copiar Pago y &amp;ID</translation>
+        <translation>Copy Payment &amp;ID</translation>
     </message>
     <message>
         <source>Show &amp;details</source>
-        <translation>Mostrar &amp;detalles</translation>
+        <translation>Show &amp;details</translation>
     </message>
     <message>
         <source>Unconfirmed</source>
-        <translation>Inconfirmado</translation>
+        <translation>Unconfirmed</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Todo</translation>
+        <translation>All</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Hoy</translation>
+        <translation>Today</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>Esta semana</translation>
+        <translation>This week</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>Este mes</translation>
+        <translation>This month</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>El mes pasado</translation>
+        <translation>Last month</translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>Este año</translation>
+        <translation>This year</translation>
     </message>
     <message>
         <source>Range...</source>
         <translatorcomment>Глагол или существительное?</translatorcomment>
-        <translation>Varia...</translation>
+        <translation>Range...</translation>
     </message>
     <message>
         <source>to</source>
-        <translation>a</translation>
+        <translation>to</translation>
     </message>
     <message>
         <source>From</source>
-        <translation>De</translation>
+        <translation>From</translation>
     </message>
     <message>
         <source>All types</source>
-        <translation>Todos tipos</translation>
+        <translation>All types</translation>
     </message>
     <message>
         <source>Incoming</source>
-        <translation>Entrante</translation>
+        <translation>Incoming</translation>
     </message>
     <message>
         <source>Outgoing</source>
-        <translation>Saliente</translation>
+        <translation>Outgoing</translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>Minado</translation>
+        <translation>Mined</translation>
     </message>
     <message>
         <source>Sent to myself</source>
-        <translation>Enviado a mi mismo</translation>
+        <translation>Sent to myself</translation>
     </message>
 </context>
 <context>
     <name>WalletGui::TransactionsModel</name>
     <message>
         <source>Date</source>
-        <translation>Fecha</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tipo</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Hash</source>
@@ -1904,66 +1904,66 @@ Are you sure?</source>
     </message>
     <message>
         <source>Address</source>
-        <translation>Dirección</translation>
+        <translation>Address</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation>Cantidad</translation>
+        <translation>Amount</translation>
     </message>
     <message>
         <source>PaymentID</source>
-        <translation>ID de pago</translation>
+        <translation>PaymentID</translation>
     </message>
     <message>
         <source>me (%1)</source>
-        <translation>yo (%1)</translation>
+        <translation>me (%1)</translation>
     </message>
     <message>
         <source>(n/a)</source>
-        <translation>(n/A)</translation>
+        <translation>(n/a)</translation>
     </message>
     <message>
         <source>Incoming transaction, unconfirmed</source>
-        <translation>Transacción entrante, inconfirmado</translation>
+        <translation>Incoming transaction, unconfirmed</translation>
     </message>
     <message>
         <source>Mined, confirmations</source>
-        <translation>Mininado, confirmaciones</translation>
+        <translation>Mined, confirmations</translation>
     </message>
     <message>
         <source>Sent to yourself, unconfirmed</source>
-        <translation>Enviado a ti mismo, inconfirmado</translation>
+        <translation>Sent to yourself, unconfirmed</translation>
     </message>
     <message>
         <source>Outgoing transaction, unconfirmed</source>
-        <translation>Transacción saliente, inconfirmado</translation>
+        <translation>Outgoing transaction, unconfirmed</translation>
     </message>
     <message numerus="yes">
         <source>Incoming transaction, %n confirmation(s)</source>
         <translation>
-            <numerusform>Transacción entrante, %n confirmación</numerusform>
-            <numerusform>Transacción entrante, %n confirmaciónes</numerusform>
+            <numerusform>Incoming transaction, %n confirmation(s)</numerusform>
+            <numerusform>Incoming transaction, %n confirmation(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Mined, %n confirmation(s)</source>
         <translation>
-            <numerusform>Minined, %n confirmacion</numerusform>
-            <numerusform>Minined, %n confirmaciones</numerusform>
+            <numerusform>Mined, %n confirmation(s)</numerusform>
+            <numerusform>Mined, %n confirmation(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Sent to yourself, %n confirmation(s)</source>
         <translation>
-            <numerusform>Enviado a ti mismo, %n confirmacion</numerusform>
-            <numerusform>Enviado a ti mismo, %n confirmaciones</numerusform>
+            <numerusform>Sent to yourself, %n confirmation(s)</numerusform>
+            <numerusform>Sent to yourself, %n confirmation(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Outgoing transaction, %n confirmation(s)</source>
         <translation>
-            <numerusform>Transacción saliente, %n confirmación</numerusform>
-            <numerusform>Transacción saliente, %n confirmaciónes</numerusform>
+            <numerusform>Outgoing transaction, %n confirmation(s)</numerusform>
+            <numerusform>Outgoing transaction, %n confirmation(s)</numerusform>
         </translation>
     </message>
 </context>
@@ -1971,167 +1971,167 @@ Are you sure?</source>
     <name>WalletGui::WalletAdapter</name>
     <message>
         <source>Opening wallet</source>
-        <translation>Apertura de monedero</translation>
+        <translation>Opening wallet</translation>
     </message>
     <message>
         <source>Importing keys</source>
-        <translation>Importación de claves</translation>
+        <translation>Importing keys</translation>
     </message>
     <message>
         <source>Saving data</source>
-        <translation>Almacenamiento de datos</translation>
+        <translation>Saving data</translation>
     </message>
     <message>
         <source>Sending transaction</source>
-        <translation>Enviando transacción</translation>
+        <translation>Sending transaction</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Listo</translation>
+        <translation>Ready</translation>
     </message>
     <message>
         <source>Synchronizing</source>
-        <translation>Sincronizando</translation>
+        <translation>Synchronizing</translation>
     </message>
     <message>
         <source>Wallet synchronized. Height: %1  |  Time (UTC): %2%3</source>
-        <translation>El monedero sincronizado. Altura: %1  |  Tiempo (UTC): %2%3</translation>
+        <translation>Wallet synchronized. Height: %1  |  Time (UTC): %2%3</translation>
     </message>
     <message>
         <source>  Warning: last block was received %1 hours %2 minutes ago</source>
-        <translation>  Advertencia: el último bloque se recibió %1 horas %2 minutos</translation>
+        <translation>  Warning: last block was received %1 hours %2 minutes ago</translation>
     </message>
     <message>
         <source>Object was not initialized</source>
-        <translation>El objeto no se inicializó</translation>
+        <translation>Object was not initialized</translation>
     </message>
     <message>
         <source>The password is wrong</source>
-        <translation>La contraseña es incorrecta</translation>
+        <translation>The password is wrong</translation>
     </message>
     <message>
         <source>The object is already initialized</source>
-        <translation>El objeto ya está inicializado</translation>
+        <translation>The object is already initialized</translation>
     </message>
     <message>
         <source>Internal error occurred</source>
-        <translation>Se produjo un error interno</translation>
+        <translation>Internal error occurred</translation>
     </message>
     <message>
         <source>MixIn count is too big</source>
-        <translation>El recuento de MixIn es demasiado grande</translation>
+        <translation>MixIn count is too big</translation>
     </message>
     <message>
         <source>Bad address</source>
-        <translation>Mala dirección</translation>
+        <translation>Bad address</translation>
     </message>
     <message>
         <source>Transaction size is too big</source>
-        <translation>El tamaño de la transacción es demasiado grande</translation>
+        <translation>Transaction size is too big</translation>
     </message>
     <message>
         <source>Wrong amount</source>
-        <translation>Cantidad incorrecta</translation>
+        <translation>Wrong amount</translation>
     </message>
     <message>
         <source>Sum overflow</source>
-        <translation>Desbordamiento de suma</translation>
+        <translation>Sum overflow</translation>
     </message>
     <message>
         <source>The destination is empty</source>
-        <translation>El destino está vacío</translation>
+        <translation>The destination is empty</translation>
     </message>
     <message>
         <source>Impossible to cancel transaction</source>
-        <translation>Imposible cancelar la transacción</translation>
+        <translation>Impossible to cancel transaction</translation>
     </message>
     <message>
         <source>The wallet is in wrong state (maybe loading or saving), try again later</source>
-        <translation>El monedero está en mal estado (quizás cargando o guardando), inténtalo de nuevo más tarde</translation>
+        <translation>The wallet is in wrong state (maybe loading or saving), try again later</translation>
     </message>
     <message>
         <source>The operation you&apos;ve requested has been cancelled</source>
-        <translation>La operación que ha solicitado ha sido cancelada</translation>
+        <translation>The operation you&apos;ve requested has been cancelled</translation>
     </message>
     <message>
         <source>Transaction transfer impossible</source>
-        <translation>Transacción transferencia imposible</translation>
+        <translation>Transaction transfer impossible</translation>
     </message>
     <message>
         <source>Wrong version</source>
-        <translation>Versión equivocada</translation>
+        <translation>Wrong version</translation>
     </message>
     <message>
         <source>Transaction fee is too small</source>
-        <translation>La tasa de transacción es demasiado pequeña</translation>
+        <translation>Transaction fee is too small</translation>
     </message>
     <message>
         <source>Cannot generate new key</source>
-        <translation>No se puede generar una nueva clave</translation>
+        <translation>Cannot generate new key<</translation>
     </message>
     <message>
         <source>Index is out of range</source>
-        <translation>Índice está fuera de rango</translation>
+        <translation>Index is out of range</translation>
     </message>
     <message>
         <source>Address already exists</source>
-        <translation>La dirección ya existe</translation>
+        <translation>Address already exists</translation>
     </message>
     <message>
         <source>The wallet is in tracking mode</source>
-        <translation>El monedero está en modo de seguimiento</translation>
+        <translation>The wallet is in tracking mode</translation>
     </message>
     <message>
         <source>Wrong parameters passed</source>
-        <translation>Parámetros incorrectos pasados</translation>
+        <translation>Wrong parameters passed</translation>
     </message>
     <message>
         <source>Object not found</source>
-        <translation>El objeto no encontrado</translation>
+        <translation>Object not found</translation>
     </message>
     <message>
         <source>Requested wallet not found</source>
-        <translation>No se encontró el monedero solicitado</translation>
+        <translation>Requested wallet not found</translation>
     </message>
     <message>
         <source>Change address required</source>
-        <translation>Cambio de la dirección es requerida</translation>
+        <translation>Change address required</translation>
     </message>
     <message>
         <source>Change address not found</source>
-        <translation>Cambiar dirección no encontrada</translation>
+        <translation>Change address not found</translation>
     </message>
     <message>
         <source>Destination address required</source>
-        <translation>Dirección de destino requerida</translation>
+        <translation>Destination address required</translation>
     </message>
     <message>
         <source>Destination address not found</source>
-        <translation>Dirección de destino no encontrada</translation>
+        <translation>Destination address not found</translation>
     </message>
     <message>
         <source>Wrong payment id format</source>
-        <translation>Formato de identificación de pago incorrecto</translation>
+        <translation>Wrong payment id format</translation>
     </message>
     <message>
         <source>Wrong transaction extra format</source>
-        <translation>Formato extra de transacción incorrecta</translation>
+        <translation>Wrong transaction extra format</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error desconocido</translation>
+        <translation>Unknown error</translation>
     </message>
     <message>
         <source>Creating wallet</source>
-        <translation>Creando el monedero</translation>
+        <translation>Creating wallet</translation>
     </message>
     <message>
         <source>Mnemonic seed is not correct</source>
-        <translation>Frase mnemónica es incorrecta</translation>
+        <translation>Mnemonic seed is not correct</translation>
     </message>
     <message>
         <source>There must be an error in mnemonic seed. Make sure you entered it correctly.</source>
-        <translation>Debe haber un error en la frase mnemónica. Asegúrate de haberlo ingresado correctamente.</translation>
+        <translation>There must be an error in mnemonic seed. Make sure you entered it correctly.</translation>
     </message>
 </context>
 </TS>
