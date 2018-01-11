@@ -5,7 +5,7 @@
     <name>AboutDialog</name>
     <message>
         <source>About %1</source>
-        <translation>Про Карбованець</translation>
+        <translation>Про Niobiocash</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Karbowanec v. %1&lt;/p&gt;&lt;p&gt;This is the next generation anonymous cryptocurrency based on CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Карбованець версія %1&lt;/p&gt;&lt;p&gt;Це криптовалюта нового покоління на основі CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2016-2017. Karbowanec Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://karbowanec.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://karbowanec.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niobiocash версія %1&lt;/p&gt;&lt;p&gt;Це криптовалюта нового покоління на основі CryptoNote.&lt;/p&gt;&lt;p&gt;Copyright (c) 2012-2015. CryptoNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2015-2016. DigitalNote Developers&lt;/p&gt;&lt;p&gt;Copyright (c) 2017-2018. Niobiocash Developers&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://opensource.org/licenses/MIT&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://cryptonote.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://cryptonote.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://niobiocash.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://niobiocash.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -860,7 +860,7 @@ Please wait...</source>
     <name>PaymentServer</name>
     <message>
         <source>Cannot start karbowanec: click-to-pay handler</source>
-        <translation>Не вдалося запустити click-to-pay обробник karbowanec:</translation>
+        <translation>Не вдалося запустити click-to-pay обробник niobiocash:</translation>
     </message>
 </context>
 <context>
@@ -1376,7 +1376,7 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Karbowanec wallet</source>
-        <translation>Гаманець карбованця</translation>
+        <translation>Гаманець niobiocash</translation>
     </message>
     <message>
         <source>External port for p2p network protocol (if port forwarding used with NAT)</source>
@@ -1528,11 +1528,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>%1 Wallet %2</source>
-        <translation type="vanished">Карбованець в. %2 (%1)</translation>
+        <translation type="vanished">Niobiocash в. %2 (%1)</translation>
     </message>
     <message>
         <source>More info can be found at www.karbowanec.com in Documentation section</source>
-        <translation>Більше інформації на сайті www.karbowanec.com у розділі Документація.</translation>
+        <translation>Більше інформації на сайті www.niobiocash.com у розділі Документація.</translation>
     </message>
     <message>
         <source>Connection settings changed</source>
@@ -1564,7 +1564,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Karbo Wallet %1</source>
-        <translation>Карбованець в. %1</translation>
+        <translation>Niobiocash в. %1</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -1580,7 +1580,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Karbo Wallet</source>
-        <translation type="vanished">Карбованець</translation>
+        <translation type="vanished">Niobiocash</translation>
     </message>
     <message>
         <source>New transaction received</source>
@@ -1744,7 +1744,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Payment request should start with karbowanec:</source>
-        <translation>Платіжна вимога повинна починатись з karbowanec:</translation>
+        <translation>Платіжна вимога повинна починатись з niobiocash:</translation>
     </message>
     <message>
         <source>Insufficient balance</source>
