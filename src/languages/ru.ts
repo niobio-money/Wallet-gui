@@ -52,7 +52,7 @@
     </message>
     <message>
         <source> krb</source>
-        <translation> крб.</translation>
+        <translation> NBR.</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -195,11 +195,11 @@
     <name>ConfirmSendDialog</name>
     <message>
         <source>Confirm sending %1 KRB</source>
-        <translation>Подтвердите отправку %1 крб.</translation>
+        <translation>Подтвердите отправку %1 NBR.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 KRB&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Желаете выслать &lt;strong&gt;%1 крб.&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Желаете выслать &lt;strong&gt;%1 NBR.&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 KRB.</source>
-        <translation>Кошелек будет подключаться к удаленному узлу в локальной или глобальной сети. Выберите узел или укажите IP адрес или домен и порт чтобы добавить новый. В этом режиме кошелек платит комиссию узлу в размере 0,25% от суммы транзакции, но не более 10 крб.</translation>
+        <translation>Кошелек будет подключаться к удаленному узлу в локальной или глобальной сети. Выберите узел или укажите IP адрес или домен и порт чтобы добавить новый. В этом режиме кошелек платит комиссию узлу в размере 0,25% от суммы транзакции, но не более 10 NBR.</translation>
     </message>
     <message>
         <source>Remove node</source>
@@ -860,7 +860,7 @@ Please wait...</source>
     <name>PaymentServer</name>
     <message>
         <source>Cannot start karbowanec: click-to-pay handler</source>
-        <translation>Не удалось запустить click-to-pay обработчик karbowanec:</translation>
+        <translation>Не удалось запустить click-to-pay обработчик niobiocash:</translation>
     </message>
 </context>
 <context>
@@ -902,7 +902,7 @@ Please wait...</source>
     </message>
     <message>
         <source>%1 wallet already running</source>
-        <translation>Кошелек Карбованца уже запущен</translation>
+        <translation>Кошелек niobiocash уже запущен</translation>
     </message>
     <message>
         <source>New version available</source>
@@ -1221,7 +1221,7 @@ Do you want to go to download page?</source>
     <name>WalletGui::AboutDialog</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>О кошельке Карбованца</translation>
+        <translation>О кошельке niobiocash</translation>
     </message>
 </context>
 <context>
@@ -1372,7 +1372,7 @@ Do you want to go to download page?</source>
     </message>
     <message>
         <source>Karbowanec wallet</source>
-        <translation>Кошелек карбованца</translation>
+        <translation>Кошелек niobiocash</translation>
     </message>
     <message>
         <source>External port for p2p network protocol (if port forwarding used with NAT)</source>
@@ -1383,7 +1383,7 @@ Do you want to go to download page?</source>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
         <source>Confirm sending %1 KRB</source>
-        <translation>Подтвердите отправку %1 крб.</translation>
+        <translation>Подтвердите отправку %1 NBR.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Payment ID: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1450,7 +1450,7 @@ Do you want to go to download page?</source>
     <name>WalletGui::MainWindow</name>
     <message>
         <source>About %1 Wallet</source>
-        <translation>О кошельке Карбованца</translation>
+        <translation>О кошельке niobiocash</translation>
     </message>
     <message>
         <source>New wallet file</source>
@@ -1528,7 +1528,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>More info can be found at www.karbowanec.com in Documentation section</source>
-        <translation>Больше информации на сайте www.karbowanec.com в разделе Документация.</translation>
+        <translation>Больше информации на сайте www.niobiocash.com в разделе Документация.</translation>
     </message>
     <message>
         <source>Connection settings changed</source>
@@ -1560,7 +1560,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Karbo Wallet %1</source>
-        <translation>Карбованец в. %1</translation>
+        <translation>niobiocash в. %1</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s)</source>
@@ -1748,7 +1748,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Payment request should start with karbowanec:</source>
-        <translation>Запрос на платеж должен начинаться с karbowanec:</translation>
+        <translation>Запрос на платеж должен начинаться с niobiocash:</translation>
     </message>
     <message>
         <source>Insufficient balance</source>
