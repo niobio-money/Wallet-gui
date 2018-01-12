@@ -2067,7 +2067,7 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Cannot generate new key</source>
-        <translation>Cannot generate new key<</translation>
+        <translation>Cannot generate new key</translation>
     </message>
     <message>
         <source>Index is out of range</source>
